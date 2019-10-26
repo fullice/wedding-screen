@@ -5,7 +5,7 @@
     transition-timing-function: linear;
     transition-property: transform;
     transition-duration: 10s;
-    text-shadow: -1px 0 blacksmoke, 0 1px blacksmoke, 1px 0 blacksmoke, 0 -1px blacksmoke;
+    text-shadow: -1px 0 #000, 0 1px #000, 1px 0 #000, 0 -1px #000;
     text-align: left;
     color: white;
     z-index: 100;
